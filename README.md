@@ -14,3 +14,7 @@ morphological.go
 ### キーフレーズ抽出
 
 keyphrase.go
+
+### かな漢字変換
+
+kana2kanji.go
